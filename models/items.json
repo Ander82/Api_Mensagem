@@ -1,0 +1,49 @@
+[
+    {
+        "IDMENSAGEM": "bff58d7b-teste-tatianai",
+        "DDD": "14",
+        "CELULAR": "4100000",
+        "OPERADORA": "41",
+        "HORARIO_ENVIO": "17:35",
+        "MENSAGEM": "0",
+        "IDBROKER": "2"
+    },
+    {
+        "IDMENSAGEM": "bff58d7b-anderson",
+        "DDD": "14",
+        "CELULAR": "4100000",
+        "OPERADORA": "41",
+        "HORARIO_ENVIO": "17:35",
+        "MENSAGEM": "0",
+        "IDBROKER": "2"
+    },
+    {
+        "IDMENSAGEM": "bff58d7b-anderson",
+        "DDD": "14",
+        "CELULAR": "4100000",
+        "OPERADORA": "41",
+        "HORARIO_ENVIO": "17:39",
+        "MENSAGEM": "0",
+        "IDBROKER": "2"
+    },
+    {
+        "id": "2hr2pqiuag",
+        "IDMENSAGEM": "debora-jghfy34hdfs-tgdv",
+        "DDD": "14",
+        "CELULAR": "4100000",
+        "OPERADORA": "41",
+        "HORARIO_ENVIO": "17:39",
+        "MENSAGEM": "0",
+        "IDBROKER": "2"
+    },
+    {
+        "id": "5h4fl21a8g",
+        "IDMENSAGEM": "agoran",
+        "DDD": "14",
+        "CELULAR": "4100000",
+        "OPERADORA": "41",
+        "HORARIO_ENVIO": "17:39",
+        "MENSAGEM": "0",
+        "IDBROKER": "2"
+    }
+]
